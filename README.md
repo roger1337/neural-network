@@ -7,4 +7,4 @@ Features implemented:
 - Gradient clipping
 - Softmax, RelU, Cross-Entropy loss
 
-In testing, 96.21% accuracy with MNIST w/ 128 HU & 3 Epochs
+In testing, 96.21% accuracy in MNIST through a 2-layered NN with 128 HU & 3 Epochs
