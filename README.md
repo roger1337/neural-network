@@ -8,3 +8,5 @@ Features implemented:
 - Softmax, ReLU, Cross-Entropy loss
 
 In testing, 96.21% accuracy in MNIST through a 2-layered NN with 128 HU & 3 Epochs
+
+![Example][example.png]
