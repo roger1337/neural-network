@@ -4,5 +4,7 @@ Features implemented:
 
 - Stochastic gradient descent
 - Kaiming initialisation
-- Gradient culling
+- Gradient clipping
 - Softmax, RelU, Cross-Entropy loss
+
+96.21% accuracy with MNIST w/ 128 HU & 3 Epochs
