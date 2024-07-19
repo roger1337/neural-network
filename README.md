@@ -9,4 +9,5 @@ Features implemented:
 
 In testing, 96.21% accuracy in MNIST through a 2-layered NN with 128 HU & 3 Epochs
 
+# Example image
 ![Example](Example.png)
